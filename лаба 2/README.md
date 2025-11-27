@@ -4,8 +4,7 @@
 Веб-страница о Японии, созданная с использованием методологии БЭМ.
 
 ## Структура проекта
-
-лаба 2/
+project/
 │
 ├── index.html
 ├── README.md
@@ -13,8 +12,13 @@
 │ ├── reset.css
 │ └── style.css
 └── img/
-│ ├── culture-ikebana.jpg
-│ ├── culture-kimono.jpg
-│ ├── culture-tea.jpg
-│ ├── hero-image.jpg
-│ ├── history-image.jpg
+└── (изображения)
+
+## Технологии
+- HTML5
+- CSS3
+- БЭМ методология
+- Адаптивный дизайн
+
+## Автор
+[Ваше имя]
